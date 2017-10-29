@@ -29,11 +29,12 @@ func main() {
 }
 ```
 #### Output
-
+```
 err1: basic golang error t/t.go:12
 remove file/line from err1: basic golang error
 err2: a better error t/t.go:15
 err3: error number 101 t/t.go:17
+```
 
 #### License 
 
